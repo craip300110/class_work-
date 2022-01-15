@@ -1,0 +1,20 @@
+body {
+	background: skyblue;
+}
+
+div {
+	width: 200px;  /* это ширина блока  */ 
+	height: 200px; /* это высота блока   */
+	background: greenyellow;
+	margin: 5px;/* внешний отступ: верх , низ , лево , право   */
+}
+
+.black_block {
+	background: black ;
+}
+
+#red_block{
+	background: red ;
+	width: 300px;  /* это ширина блока  */ 
+	height: 300px; /* это высота блока   */
+}

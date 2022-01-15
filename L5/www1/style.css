@@ -1,0 +1,27 @@
+body {
+	background: skyblue;
+}
+p{
+	font-size: 170px;
+	color: red ;
+	text-align: center;
+}
+span{
+	color: yellow;
+
+}
+.green_letter{
+	color: green ;
+}
+.yellow_letter{
+	color: yellow ;
+}
+.purple_letter{
+	color: purple ;
+}
+.salmon_letter{
+	color: #FA8072;
+}
+.darkblue_letter{
+	color: #00008B;
+}
